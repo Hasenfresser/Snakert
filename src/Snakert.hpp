@@ -1,6 +1,6 @@
 /** \file   Snakert.hpp
  *  \author Hasenfresser
- *  \date   18-05-24
+ *  \date   18-05-25
  *  \brief  Header file of "Snakert".
  *
  *  An open source clone of classic "Snake".
@@ -81,8 +81,8 @@ public:
 
     /** \brief  Default constructor
      *
-     *  \param  p_iArgC int
-     *  \param  P_piArgV[] char*
+     *  \param  p_iArgC int: number of arguments
+     *  \param  P_piArgV[] char*: argument list
      */
     Snakert(int p_iArgC, char *p_pcArgV[]);
 

@@ -1,8 +1,8 @@
 # depslib dependency file v1.0
-1527156853 source:d:\dat_codeblocks\snakert\main.cpp
+1527682681 source:d:\dat_codeblocks\snakert\main.cpp
 	"src/Snakert.hpp"
 
-1527165805 d:\dat_codeblocks\snakert\src\snakert.hpp
+1527233653 d:\dat_codeblocks\snakert\src\snakert.hpp
 	<GLUT/glut.h>
 	<GL/glut.h>
 	"Constants.hpp"
@@ -231,10 +231,10 @@
 	<stddef.h>
 	<GL/gl.h>
 
-1527161007 d:\dat_codeblocks\snakert\src\constants.hpp
+1527682999 d:\dat_codeblocks\snakert\src\constants.hpp
 	<string>
 
-1527165787 source:d:\dat_codeblocks\snakert\src\snakert.cpp
+1527684098 source:d:\dat_codeblocks\snakert\src\snakert.cpp
 	"Snakert.hpp"
 	<ctime>
 	<iostream>
